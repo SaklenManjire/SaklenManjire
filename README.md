@@ -10,14 +10,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saklen-manjire-844909336">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn" />
   </a>
+  <img width="15" />
   <a href="mailto:skalenmanjire032@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Gmail" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=SaklenManjire&color=blueviolet&style=for-the-badge" />
 </p>
-
 ---
 
 ### 🚀 About Me
