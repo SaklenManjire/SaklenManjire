@@ -17,5 +17,4 @@
     <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Gmail" />
   </a>
 </p>
----
-CSE Student | Software Developer | Java | Backend Development | JavaScript | SQL | Building real-world applications
+
