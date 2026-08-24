@@ -18,14 +18,4 @@
   </a>
 </p>
 ---
-
-### 🚀 About Me
-
-```yaml
-name: Saklen Manjire
-location: Maharashtra, India
-education: B.TECH. CSE AI/ML @ DKTE College
-current_focus: Web Development & Java
-experience: .NET Internship
-clients: Local Businesses
-status: Building something crazy 🔥
+CSE Student | Software Developer | Java | Backend Development | JavaScript | SQL | Building real-world applications
